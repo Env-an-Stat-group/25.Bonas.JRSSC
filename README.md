@@ -4,9 +4,8 @@ Supplemental Codes for "High Resolution Urban Air Quality Monitoring from Citize
 ## Data
 Folder containing simulated data `L96SimData.RData` with 40 variables (locations) and 1000 time points as well as the PurpleAir sensor data `APFour.RData`. These data are to be used in conjunction with the associated R and Python scripts to produce forecasts with the DESN and TNN models referenced in the manuscript. 
 
-
 <p align = "center">
-  <img src="https://github.com/user-attachments/assets/ec8b4ec5-7728-46f9-a3e1-04a8edcf3583" alt="F1-SFPurpleAirDemo" width="300"/>
+  <img src="https://github.com/user-attachments/assets/ec8b4ec5-7728-46f9-a3e1-04a8edcf3583" alt="F1-SFPurpleAirDemo" width="600"/>
   <br>
 </p>
 
