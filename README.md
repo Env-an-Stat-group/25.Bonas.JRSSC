@@ -1,5 +1,5 @@
 # 24.Bonas.unpublished
-Supplemental Codes for "High Resolution Urban Air Quality Monitoring from Citizen Science Data with Ensemble Echo-State Transformer Networks" by Matthew Bonas and Stefano Castruccio
+Supplemental Codes for "High Resolution Urban Air Quality Monitoring from Citizen Science Data with Echo-State Transformer Networks" by Matthew Bonas and Stefano Castruccio
 
 ## Data
 Simulated data "L96SimData.RData" with 40 variables (locations) and 1000 time points. This data is to be used in conjunction with the associated R and Python scripts to produce forecasts with the DESN and TNN models referenced in the manuscript.
