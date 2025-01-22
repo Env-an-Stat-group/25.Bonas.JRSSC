@@ -1,4 +1,4 @@
-# 25.Bonas.unpublished2
+# 25.Bonas.JRSSC
 Supplemental Codes for "High Resolution Urban Air Quality Monitoring from Citizen Science Data with Echo-State Transformer Networks" by Matthew Bonas and Stefano Castruccio
 
 ## Data
